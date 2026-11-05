@@ -2,6 +2,16 @@
 
 Shabrangkala is an Android shopping app built with Kotlin and Jetpack Compose. It connects to a WooCommerce/WordPress backend to display products, categories, product variations, and blog posts.
 
+## Screenshots
+
+![Shabrangkala screen 1](https://github.com/AbbasTestAccount/Shabrangkala/assets/121643180/e4c47fa2-f233-4e93-8454-2b8a620e22f4)
+
+![Shabrangkala screen 2](https://github.com/AbbasTestAccount/Shabrangkala/assets/121643180/9beb5084-6416-42e0-bd91-5072a9a5ff8e)
+
+![Shabrangkala screen 3](https://github.com/AbbasTestAccount/Shabrangkala/assets/121643180/c77b4c90-81f9-4c9d-8a37-16c2c64df561)
+
+![Shabrangkala screen 4](https://github.com/AbbasTestAccount/Shabrangkala/assets/121643180/19a4d8e2-5892-44a0-a15d-2cd4f8fe5d74)
+
 ## Features
 
 - Onboarding and user sign-in/sign-up flows
